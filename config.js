@@ -10,7 +10,7 @@ GH.OWNER = 'akakeronos'
 GH.CREW = 'gourmandignes'
 
 var MULTIBAO = {}
-MULTIBAO.UVP1 = 'Partager et enrichir vos pratiques d\'équipe'
-MULTIBAO.UVP2 = 'Let\'s Do It Together'
-MULTIBAO.BUTTON1 = 'Découvrir'
-MULTIBAO.BUTTON2 = 'Espace contributeurs / bloggeurs'
+MULTIBAO.UVP1 = 'Partager des recettes'
+MULTIBAO.UVP2 = 'Valoriser les produits, les producteurs et les transformateurs'
+//MULTIBAO.BUTTON1 = 'Découvrir'
+//MULTIBAO.BUTTON2 = 'Espace contributeurs / bloggeurs'
