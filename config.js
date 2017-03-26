@@ -13,4 +13,4 @@ var MULTIBAO = {}
 MULTIBAO.UVP1 = 'Partager des recettes'
 MULTIBAO.UVP2 = 'Valoriser les produits, les producteurs et les transformateurs'
 MULTIBAO.BUTTON1 = 'Contribuer'
-MULTIBAO.BUTTON2 = 'Pourquoi faire'
+MULTIBAO.BUTTON2 = 'Pourquoi faire ?'
